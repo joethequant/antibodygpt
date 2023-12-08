@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+#model and data folders
+**/model_checkpoints/*
+**/data
+**/results
+
+
 # C extensions
 *.so
 
